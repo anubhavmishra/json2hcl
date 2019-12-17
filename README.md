@@ -8,7 +8,7 @@ Download the latest version of `json2hcl` from [releases](https://github.com/anu
 
 ### Packer JSON config file to HCL example
 
-Packer JSON config file `[examples/packer-config.json](./examples/packer-config.json)`
+Packer JSON config file [examples/packer-config.json](./examples/packer-config.json)
 
 ```json
 {
