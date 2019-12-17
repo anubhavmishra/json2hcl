@@ -78,6 +78,13 @@ json2hcl < examples/packer-config.json
 }
 ```
 
+To validate Packer HCL configuration run the following command
+
+```bash
+packer validate packer-config.hcl
+Template validated successfully.
+```
+
 ## Acknowledgements
 
 This project is inspired by [kvz/json2hcl](https://github.com/kvz/json2hcl). This project aims to be
